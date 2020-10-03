@@ -1,0 +1,8 @@
+#creacion de un proyecto react
+npx create-react-app my-app //npx se usa para instalar las librerias de manera local en el proyecto y no de manera global en el sistema
+
+#remover en el index.js <React.StrictMode>, StrictMode es una herramienta para destacar problemas potenciales en la aplicación.
+#son ejecutadas en el modo de desarrollo; no van a impactar producción.
+
+#arrancar el proyecto
+npm start
